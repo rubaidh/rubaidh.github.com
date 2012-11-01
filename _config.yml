@@ -1,4 +1,4 @@
 safe: true
-markdown: rdiscount
+markdown: maruku
 pygments: true
 exclude: Gemfile, Gemfile.lock
