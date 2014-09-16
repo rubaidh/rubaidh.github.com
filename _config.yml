@@ -1,4 +1,6 @@
 safe: true
-markdown: maruku
-pygments: true
-exclude: Gemfile, Gemfile.lock
+markdown: kramdown
+highlighter: pygments
+exclude:
+  - Gemfile
+  - Gemfile.lock
