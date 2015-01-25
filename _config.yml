@@ -1,6 +1,0 @@
-safe: true
-markdown: kramdown
-highlighter: pygments
-exclude:
-  - Gemfile
-  - Gemfile.lock
